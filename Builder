@@ -1,0 +1,820 @@
+<div class="col-sm-12 center-column">
+<div class="col-sm-12 center-column">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</div>
+</div>
+<style type="text/css"><!--
+#builder .container {
+		 	position:relative; 
+		 	width: 100%;
+			height: 600px;    
+}
+  #builder .buttons {
+    margin: 0;
+  }
+		 #builder .container .batteryled {
+  			width: 378px;
+			height: 600px;
+   			background-repeat: no-repeat;
+  			position:absolute;
+			z-index:105;
+}
+		 #builder .container .screencover,
+		 #builder .container .shell,
+		 #builder .container .backlight,
+		 #builder .container .startselect,
+ #builder .container .pad,
+		 #builder .container .buttons {
+  			width: 378px;
+			height: 600px;
+   			background-repeat: no-repeat;
+  			position:absolute;
+			z-index:100;
+}
+
+<!--Gameboy Color-->
+#builder .container {
+		 	position:relative; 
+		 	width: 100%;
+			height: 600px; 
+			padding-left: 50px;   
+}
+  #builder .colorbuttons {
+    margin: 0;
+  }
+		 #builder .container .colorbatteryled {
+  			width: 378px;
+			height: 600px;
+   			background-repeat: no-repeat;
+  			position:absolute;
+			z-index:105;
+}
+		 #builder .container .colorscreencover,
+		 #builder .container .colorshell,
+		 #builder .container .colorbacklight,
+		 #builder .container .colorstartselect,
+ #builder .container .colorpad,
+		 #builder .container .colorbuttons {
+  			width: 378px;
+			height: 600px;
+   			background-repeat: no-repeat;
+  			position:absolute;
+			z-index:100;
+}
+
+
+
+		#shell-red{
+			background-image:     
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_shell_e5806316-217d-4da8-a5a5-34f1273b21ba.png?16694600620559560248);
+			}
+
+		#colorshell-red{
+			background-image:     
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellred.png?5468331360568821109);
+			}
+
+		#shell-white{
+			background-image:     
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_shell.png?11628824658375360374);
+			}
+
+        #shell-blackplayitloud{
+			background-image:     
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-4ef9-9899-ebb4e27c3561.png?9121457125679004965);
+			}
+
+		#shell-Yellow{
+			background-image: 			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_shell_3f5d6e54-c60e-479c-91fb-c38057ec7347.png?12576244614574958166);
+			}
+
+		#shell-green{
+			background-image: url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_shell.png?4786022379404181099);
+			}
+
+		#shell-iceblue{
+			background-image: 
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_shell_7f412114-f633-477a-bcff-bbcca29434ca.png?11628824658375360374);
+			}
+
+		#shell-yellow{
+ 			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_shell_3f5d6e54-c60e-479c-91fb-c38057ec7347.png?12576244614574958166);
+			}
+		#shell-grey{
+ 			background-image:
+	url(https://cdn.shopify.com/s/files/1/0689/3143/files/GrayShell.png?3498045067692212754);
+			}
+		#shell-clear{
+ 			background-image:
+	url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_shell_93ce33c5-4f71-462a-9606-3fef2e97cc52.png?12834586570630572455);
+			}
+
+
+
+
+		#screencover-silver{
+  			background-image:
+      url(https://cdn.shopify.com/s/files/1/0689/3143/files/light_gray_screen.png?7474903739958917083);
+			}
+
+		#screencover-orange{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_screen_db8d4039-2a4b-4b07-a4f7-55d479e65ca9.png?7474903739958917083);
+			}
+		#screencover-greypil{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/graypil_screen.png?12438310300752198467);
+			}
+		#colorscreencover-red{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_screen_0723876e-0142-4726-b79c-dc9e15329d8d.png?7474903739958917083);
+			}
+		#screencover-yellow{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_screen_fd8ed66c-b9d2-4bd8-9712-45000be504da.png?7474903739958917083);
+			}
+		#screencover-fuschia{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pinkscreen.png?4308734887587417777);
+			}
+		#screencover-pink{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_screen_166f1b59-458c-4228-9897-9cf702b76f88.png?7474903739958917083);
+			}
+                #screencover-green{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_screen_895a25b1-57db-4cac-8304-a5f38bc0d54c.png?7474903739958917083);
+			}
+                #screencover-purple{
+    			background-image:
+			url(/builder/images/screencover/purplelarge.png);
+			}
+                #screencover-lightgray{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/light_gray_screen.png?11568177946723404764);
+			}
+
+                #screencover-grey{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/original_gray_screen.png?13649385188575380500);
+			}
+                #screencover-white{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_screen_3ff3da79-cfa7-4ec9-a747-2e4017166cee.png?11568177946723404764);
+			}
+                #screencover-blue{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_screen_299c8fcb-fc5a-41d1-a55c-0f819e464891.png?7474903739958917083);
+			}
+                #screencover-black{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_screencover_3f62c6b3-ba84-495c-9674-4ae1eef11405.png?10274523716385127472);
+			}
+
+		#backlight-pink{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Pink_Backlight.png?8428313956124451997);
+			}
+                #backlight-pinkin{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_inverted_d54ea874-cf3f-40b5-9858-94d6f412d215.png?3811224413651157564);
+			}
+		#backlight-blue{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_Backlight.png?8428313956124451997);
+			}
+#backlight-bluein{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_inverted_9d79540b-bab2-45e7-918d-1bd3b7895f42.png?3811224413651157564);
+			}
+		#backlight-red{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Red_Backlight.png?8428313956124451997);
+			}
+#backlight-redin{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_red_b6289727-4a3a-46ae-9cb3-3e9ce61ecaa1.png?5932645446394530374);
+			}
+		#backlight-yellow{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Yellow_Backlight.png?8428313956124451997);
+			}
+#backlight-yellowin{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_yellow_5c0a8cd0-2b82-401a-8cc7-8148f5231563.png?3811224413651157564);
+			}
+#backlight-whitein{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_inverted_619cd7a6-e7b9-44f2-88ca-00b175955df3.png?3811224413651157564);
+			}
+		#backlight-white{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/White_Backlight_4595bec2-be42-4372-8ce5-c9e0fda693ae.png?3811224413651157564);
+			}
+#backlight-orangein{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_orange_1f652267-4a4c-44a6-b625-772e53ac9954.png?3811224413651157564);
+			}
+		#backlight-orange{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Orange_Backlight.png?8428313956124451997);
+			}
+#backlight-greenin{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_green_575255c2-c740-455e-abce-e89ba86fffa1.png?3811224413651157564);
+			}
+		#backlight-green{
+    			background-image:
+	url(https://cdn.shopify.com/s/files/1/0689/3143/files/Green_Backlight.png?8428313956124451997);
+			}
+
+
+
+
+		#startselect-grey{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Gray_Start_and_Select.png?3498045067692212754);
+			}
+		#startselect-darkgrey{
+    			background-image:
+			url(/builder/images/startselect/darkgreylarge.png);
+			}
+
+
+		#batteryled-pink{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pinklight_6b1cffb8-078f-4e26-b626-5be15c02e598.png?6630461345080840946);
+			}
+		#batteryled-red{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/redled.png?11424126237854487977);
+			}
+		#batteryled-blue{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/bluelight.png?6630461345080840946);
+			}
+		#batteryled-white{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/whitelight.png?4678645112955859514);
+			}
+		#batteryled-orange{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orangelight.png?6630461345080840946);
+			}
+		#batteryled-green{
+    			background-image:
+		url(https://cdn.shopify.com/s/files/1/0689/3143/files/greenlight.png?78110739422417205);
+			}
+		#batteryled-yellow{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellowlight.png?6630461345080840946);
+			}
+
+
+		#buttons-standard{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/maroon_ab.png?10653361920032545582);
+			}
+		#buttons-greypil{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/gray_play_it_loud_buttons.png?11168760418019045655);
+			}
+
+		#buttons-black{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_ab.png?10653361920032545582);
+			}
+		#buttons-clear{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_ab1.png?14613609308795568103);
+			}
+		#buttons-transclearnes{
+    			background-image:
+			url(/builder/images/buttons/transclearneslarge.png);
+			}
+		#buttons-green{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_ab_759d6e23-91e5-451f-bf42-cfac0c6d4647.png?12935496834938362898);
+			}
+		#buttons-transgreennes{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Green_Button.png?12133633174187437181);
+			}
+		#buttons-orange{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_buttons.png?12334519215723996981);
+			}
+		#buttons-transorangenes{
+    			background-image:
+			url(/builder/images/buttons/transorangeneslarge.png);
+			}
+		#buttons-transred{
+    			background-image:
+			url(/builder/images/buttons/transredlarge.png);
+			}
+		#buttons-transrednes{
+    			background-image:
+			url(/builder/images/buttons/transredneslarge.png);
+			}
+		#buttons-pink{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_ab.png?10748853372296302136);
+			}
+		#buttons-blue{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_ab.png?15237576764184554946);
+			}
+		#buttons-red{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_ab.png?15237576764184554946);
+			}
+		#buttons-butterscotch{
+    			background-image:
+			url(/builder/images/buttons/butterscotchlarge.png);
+			}
+		#buttons-yellow{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_buttons.png?12334519215723996981);
+			}
+		#buttons-cerisepink{
+    			background-image:
+			url(/builder/images/buttons/cerisepinklarge.png);
+			}
+		#buttons-coolblue{
+    			background-image:
+			url(/builder/images/buttons/coolbluelarge.png);
+			}
+		#buttons-daphneblue{
+    			background-image:
+			url(/builder/images/buttons/daphnebluelarge.png);
+			}
+		#buttons-deeppurple{
+    			background-image:
+			url(/builder/images/buttons/deeppurplelarge.png);
+			}
+		#buttons-gorgeousgreen{
+    			background-image:
+			url(/builder/images/buttons/gorgeousgreenlarge.png);
+			}
+		#buttons-palegrey{
+    			background-image:
+			url(/builder/images/buttons/palegreylarge.png);
+			}
+		#buttons-purplegrape{
+    			background-image:
+			url(/builder/images/buttons/purplegrapelarge.png);
+			}
+		#buttons-salmonpink{
+    			background-image:
+			url(/builder/images/buttons/salmonpinklarge.png);
+			}
+		#buttons-seafoamgreen{
+    			background-image:
+			url(/builder/images/buttons/seafoamgreenlarge.png);
+			}
+		#buttons-slimegreen{
+    			background-image:
+			url(/builder/images/buttons/slimegreenlarge.png);
+			}
+		#buttons-sunyellow{
+    			background-image:
+			url(/builder/images/buttons/sunyellowlarge.png);
+			}
+		#buttons-tangerineorange{
+    			background-image:
+			url(/builder/images/buttons/tangerineorangelarge.png);
+			}
+		#buttons-teal{
+    			background-image:
+			url(/builder/images/buttons/teallarge.png);
+			}
+		#buttons-white{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_buttons.png?3892906197070068841);
+			}
+		#pad-red{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/redpad.png?11635400869007365356);
+			}
+#pad-blue{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_d_71697e18-a3fb-4700-a25c-c73f89f8eb4a.png?5155849141088801986);
+			}
+#pad-clear{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_d1.png?14613609308795568103);
+			}
+#pad-gray{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/gray_d.png?10653361920032545582);
+			}
+#pad-white{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_d.png?10653361920032545582);
+			}
+#pad-orange{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_d.png?1663071712314347658);
+			}
+#pad-yellow{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_d.png?1663071712314347658);
+			}
+#pad-green{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_d.png?12935496834938362898);
+			}
+#pad-pink{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_d.png?1663071712314347658);
+			}
+
+		#pad-black{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_d.png?10653361920032545582);
+			}
+
+#colorscreencover-original{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorscreen_original.png?5849780952652725663);
+
+#colorscreencover-red{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_screen_f5581d2b-f3b9-4d64-9215-7dd654dba95f.jpg?18400439628258142466);
+			}
+
+#colorscreencover-orange{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_screen_c481613d-ef29-47ef-8517-a10ccaa16522.png?18400439628258142466);
+
+#colorscreencover-yellow{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_screen_0a35c7e8-1266-484b-9022-2ca447236909.png?18400439628258142466);
+
+#colorscreencover-green{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_screen_74523f4b-c202-4f06-9c51-a05013f4ae87.png?18400439628258142466);
+
+#colorbacklight-LCD{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/LCD.png?387603334134548074);
+			}
+
+#chrstimas{
+    			background-image:
+			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_d.png?12935496834938362898);(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_Backlight.png?8428313956124451997)
+			}
+
+	
+#buttons1{color:red}
+--></style>
+<div class="col-sm-12 center-column">
+<table id="builder">
+<tbody>
+<tr align="top">
+<td align="right" width="400">
+<p style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0689/3143/files/10_large.PNG?1250031497410586132" />Customize your vintage Nintendo Game Boy DMG (Original). Use the drop boxes underneath to change the colors of your shell, buttons, backlight, LED, and screen.</p>
+<table cellpadding="0" height="403" width="398">
+<tbody>
+<tr>
+<td align="right" height="40" width="200">
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Shell Color</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Screen Cover</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">A/B Buttons</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">D-Pad</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Backlight</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Battery LED</span></p>
+</td>
+<td align="left" height="40" width="200">
+<p><select class="shell">
+<option value="shell-grey">Gray Original</option>
+<option value="shell-yellow">Yellow Play It Loud</option>
+<option value="shell-blackplayitloud">Black Play It Loud</option>
+<option value="shell-red">Red Play It Loud</option>
+<option value="shell-green">Green Play It Loud</option>
+<option value="shell-white">White Play It Loud</option>
+<option value="shell-iceblue">Blue Play It Loud</option>
+<option value="shell-clear">Clear Play It Loud</option>
+</select></p>
+<p><select class="screencover">
+<option value="screencover-grey">Gray Original</option>
+<option value="screencover-greypil">Gray Play It Loud</option>
+<option value="screencover-black">Black</option>
+<option value="screencover-white">White</option>
+<option value="screencover-lightgray">Light Gray</option>
+<option value="screencover-red">Red</option>
+<option value="screencover-orange">Orange</option>
+<option value="screencover-yellow">Yellow</option>
+<option value="screencover-pink">Pink</option>
+<option value="screencover-green">Green</option>
+<option value="screencover-blue">Blue</option>
+</select></p>
+<p><select class="buttons">
+<option value="buttons-standard">Original</option>
+<option value="buttons-greypil">Gray Play It Loud</option>
+<option value="buttons-black">Black</option>
+<option value="buttons-clear">Clear</option>
+<option value="buttons-green">Green</option>
+<option value="buttons-orange">Orange</option>
+<option value="buttons-red">Red</option>
+<option value="buttons-pink">Pink</option>
+<option value="buttons-blue">Blue</option>
+<option value="buttons-yellow">Yellow</option>
+<option value="buttons-white">White</option>
+</select></p>
+<p><select class="pad">
+<option value="pad-gray">Gray Original</option>
+<option value="pad-black">Black</option>
+<option value="pad-white">White</option>
+<option value="pad-red">Red</option>
+<option value="pad-orange">Orange</option>
+<option value="pad-yellow">Yellow</option>
+<option value="pad-green">Green</option>
+<option value="pad-blue">Blue</option>
+<option value="pad-pink">Pink</option>
+<option value="pad-clear">Clear</option>
+</select></p>
+<p><select class="backlight">
+<option value="backlight-white">White</option>
+<option value="backlight-whitein">White Inverted</option>
+<option value="backlight-pink">Pink</option>
+<option value="backlight-pinkin">Pink Inverted</option>
+<option value="backlight-red">Red</option>
+<option value="backlight-redin">Red Inverted</option>
+<option value="backlight-yellow">Yellow</option>
+<option value="backlight-yellowin">Yellow Inverted</option>
+<option value="backlight-blue">Blue</option>
+<option value="backlight-bluein">Blue Inverted</option>
+<option value="backlight-orange">Orange</option>
+<option value="backlight-orangein">Orange Inverted</option>
+<option value="backlight-green">Green</option>
+<option value="backlight-greenin">Green Inverted</option>
+</select></p>
+<p><select class="batteryled">
+<option value="batteryled-red">Original Red</option>
+<option value="batteryled-blue">Blue</option>
+<option value="batteryled-green">Green</option>
+<option value="batteryled-yellow">Yellow</option>
+<option value="batteryled-orange">Orange</option>
+<option value="batteryled-white">White</option>
+<option value="batteryled-pink">Pink</option>
+</select></p>
+<p><select class="Featured Build Combos">
+<option value="shell-grey">Gray Original</option>
+<option value="shell-white" and="" backlight-pink="">Christmas</option>
+</select></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<div class="container">
+<div class="shell" id="shell-grey"></div>
+<div class="batteryled" id="batteryled-red"></div>
+<div class="backlight" id="backlight-white"></div>
+<div class="screencover" id="screencover-grey"></div>
+<div class="startselect" id="startselect-grey"></div>
+<div class="buttons" id="buttons-standard"></div>
+<div class="Featured Build Combos" id="Christmas"></div>
+<div class="pad" id="pad-gray"></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-background_color="" data-button_background_color="7db461" data-button_text_color="ffffff" data-buy_button_text="Buy now" data-display_size="compact" data-embed_type="product" data-first_variant_id="1245462935" data-has_image="true" data-product_handle="28-gauge-electrical-wire-5-meters" data-product_name="28 Gauge Electrical Wire 5 Meters" data-redirect_to="checkout" data-shop="hand-held-legend.myshopify.com"></div>
+</div>
+<!--GameboyColor-->
+<div class="col-sm-12 center-column">
+<table id="builder">
+<tbody>
+<tr align="top">
+<td align="right" width="400">
+<p style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0689/3143/files/10_large.PNG?1250031497410586132" />Customize your vintage Nintendo Game Boy DMG (Original). Use the drop boxes underneath to change the colors of your shell, buttons, backlight, LED, and screen.</p>
+<table cellpadding="0" height="403" width="398">
+<tbody>
+<tr>
+<td align="right" height="40" width="200">
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Shell Color</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Screen Cover</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">A/B Buttons</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">D-Pad</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Backlight</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Battery LED</span></p>
+</td>
+<td align="left" height="40" width="200">
+<p><select class="colorshell">
+<option value="colorshell-gray">Gray Original</option>
+<option value="shell-yellow">Yellow Play It Loud</option>
+<option value="shell-blackplayitloud">Black Play It Loud</option>
+<option value="colorshell-red">Red Play It Loud</option>
+<option value="shell-green">Green Play It Loud</option>
+<option value="shell-white">White Play It Loud</option>
+<option value="shell-iceblue">Blue Play It Loud</option>
+<option value="shell-clear">Clear Play It Loud</option>
+</select></p>
+<p><select class="colorscreencover">
+<option value="colorscreencover-original">Classic Black</option>
+<option value="colorscreencover-red">Red</option>
+<option value="colorscreencover-orange">Orange</option>
+<option value="colorscreencover-yellow">Yellow</option>
+<option value="colorscreencover-green">Green</option>
+<option value="colorscreencover-blue">Blue</option>
+<option value="colorscreencover-pink">Pink</option>
+<option value="colorscreencover-black">Black</option>
+<option value="colorscreencover-white">White</option>
+<option value="colorscreencover-gray">Gray</option>
+</select></p>
+<p><select class="coloruttons">
+<option value="buttons-standard">Original</option>
+<option value="buttons-greypil">Gray Play It Loud</option>
+<option value="buttons-black">Black</option>
+<option value="buttons-clear">Clear</option>
+<option value="buttons-green">Green</option>
+<option value="buttons-orange">Orange</option>
+<option value="buttons-red">Red</option>
+<option value="buttons-pink">Pink</option>
+<option value="buttons-blue">Blue</option>
+<option value="buttons-yellow">Yellow</option>
+<option value="buttons-white">White</option>
+</select></p>
+<p><select class="colorpad">
+<option value="pad-gray">Gray Original</option>
+<option value="pad-black">Black</option>
+<option value="pad-white">White</option>
+<option value="pad-red">Red</option>
+<option value="pad-orange">Orange</option>
+<option value="pad-yellow">Yellow</option>
+<option value="pad-green">Green</option>
+<option value="pad-blue">Blue</option>
+<option value="pad-pink">Pink</option>
+<option value="pad-clear">Clear</option>
+</select></p>
+<p><select class="colorbacklight">
+<option value="backlight-white">White</option>
+<option value="backlight-whitein">White Inverted</option>
+<option value="backlight-pink">Pink</option>
+<option value="backlight-pinkin">Pink Inverted</option>
+<option value="backlight-red">Red</option>
+<option value="backlight-redin">Red Inverted</option>
+<option value="backlight-yellow">Yellow</option>
+<option value="backlight-yellowin">Yellow Inverted</option>
+<option value="backlight-blue">Blue</option>
+<option value="backlight-bluein">Blue Inverted</option>
+<option value="backlight-orange">Orange</option>
+<option value="backlight-orangein">Orange Inverted</option>
+<option value="backlight-green">Green</option>
+<option value="backlight-greenin">Green Inverted</option>
+</select></p>
+<p><select class="colorbatteryled">
+<option value="batteryled-red">Original Red</option>
+<option value="batteryled-blue">Blue</option>
+<option value="batteryled-green">Green</option>
+<option value="batteryled-yellow">Yellow</option>
+<option value="batteryled-orange">Orange</option>
+<option value="batteryled-white">White</option>
+<option value="batteryled-pink">Pink</option>
+</select></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<div class="container">
+<div class="colorshell" id="colorshell-red"></div>
+<div class="colorbatteryled" id="colorbatteryled-red"></div>
+<div class="colorbacklight" id="colorbacklight-LCD"></div>
+<div class="colorscreencover" id="colorscreencover-original"></div>
+<div class="colorstartselect" id="colorstartselect-grey"></div>
+<div class="colorbuttons" id="colorbuttons-standard"></div>
+<div class="colorpad" id="colorpad-gray"></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-background_color="" data-button_background_color="7db461" data-button_text_color="ffffff" data-buy_button_text="Buy now" data-display_size="compact" data-embed_type="product" data-first_variant_id="1245462935" data-has_image="true" data-product_handle="28-gauge-electrical-wire-5-meters" data-product_name="28 Gauge Electrical Wire 5 Meters" data-redirect_to="checkout" data-shop="hand-held-legend.myshopify.com"></div>
+</div>
+<script>// <![CDATA[
+$('select.shell')
+    .change(function(){
+        $('div.shell')
+            .attr('id', $(this).val())
+    });
+
+
+$('select.batteryled')
+    .change(function(){
+        $('div.batteryled')
+            .attr('id', $(this).val())
+    });
+
+$('select.screencover')
+    .change(function(){
+        $('div.screencover')
+            .attr('id', $(this).val())
+    });
+
+$('select.buttons')
+    .change(function(){
+        $('div.buttons')
+            .attr('id', $(this).val())
+    });
+
+$('select.pad')
+    .change(function(){
+        $('div.pad')
+            .attr('id', $(this).val())
+    });
+
+$('select.backlight')
+    .change(function(){
+        $('div.backlight')
+            .attr('id', $(this).val())
+            
+    });
+
+$('select.Christmas')
+    .change(function(){
+        $('div.batteryled')
+            .attr('id', $(this).val())
+    });
+
+    $('select.colorshell')
+    .change(function(){
+        $('div.colorshell')
+            .attr('id', $(this).val())
+    });
+
+$('select.colorbatteryled')
+    .change(function(){
+        $('div.colorbatteryled')
+            .attr('id', $(this).val())
+    });
+
+$('select.colorscreencover')
+    .change(function(){
+        $('div.colorscreencover')
+            .attr('id', $(this).val())
+    });
+
+$('select.colorbuttons')
+    .change(function(){
+        $('div.colorbuttons')
+            .attr('id', $(this).val())
+    });
+
+$('select.colorpad')
+    .change(function(){
+        $('div.colorpad')
+            .attr('id', $(this).val())
+    });
+
+$('select.colorbacklight')
+    .change(function(){
+        $('div.colorbacklight')
+            .attr('id', $(this).val())
+            
+    });
+// ]]></script>
+<p>**Note** Colors and textures are simulations. Purchased products and their effects may differ from the simulation above. Thank you Shaun from <a href="http://www.gameboymods.co.uk/" target="_blank">Game Boy Mods UK</a> for help making this possible.</p>
+<p>Looking for a professional to build it for you? Here is a list of our most trusted and experienced modders:</p>
+<ul>
+<ul>
+<li><a target="_blank" href="http://8bitaesthetics.bigcartel.com/">8bitAesthetics</a> - Chris</li>
+<li><a href="http://www.gameboymods.co.uk/">Game Boy Mods UK</a> - Shaun</li>
+</ul>
+</ul>
+<br /><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<p><input name="cmd" value="_s-xclick" type="hidden" /> <input name="hosted_button_id" value="EKP88X8X7GLHY" type="hidden" /> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" border="0" type="image" /> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" /><br />Enjoy the builder? Please consider<br />donating to help fund future projects.</p>
+</form>____ <!--?php 
+
+$final_img = imagecreate(378, 600);
+
+$image_1 = "https://cdn.shopify.com/s/files/1/0689/3143/files/red_shell_e5806316-217d-4da8-a5a5-34f1273b21ba.png?16694600620559560248";
+$image_2 = "https://cdn.shopify.com/s/files/1/0689/3143/files/black_ab.png?10653361920032545582";
+$image_3 = screencover-black('https://cdn.shopify.com/s/files/1/0689/3143/files/black_screencover_3f62c6b3-ba84-495c-9674-4ae1eef11405.png?10274523716385127472');
+$image_4 = backlight-red('https://cdn.shopify.com/s/files/1/0689/3143/files/Red_Backlight.png?8428313956124451997');
+imagecopy($image_1, $final_img, 0, 0, 0, 0, 378, 600);
+imagecopy($image_2, $final_img, 0, 0, 0, 0, 378, 600);
+imagecopy($image_3, $final_img, 0, 0, 0, 0, 378, 600);
+imagecopy($image_4, $final_img, 0, 0, 0, 0, 378, 600);
+
+imagealphablending($final_img, false);
+imagesavealpha($final_img, true);
+if($output_to_browser){
+
+header('Content-Type: image/png');
+imagepng($final_img);
+
+}else{
+// output to file
+
+imagepng($final_img, 'final_img.png');
+
+}
+
+?-->
