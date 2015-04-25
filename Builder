@@ -487,6 +487,12 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Battery LED</span></p>
 </td>
 <td align="left" height="40" width="200">
+
+<p><select id="featured" class="featured">
+<option value="megaman">Mega Man</option>
+<option value="Christmas">Christmas</option>
+</select></p>
+
 <p><select class="shell">
 <option value="shell-grey">Gray Original</option>
 <option value="shell-yellow">Yellow Play It Loud</option>
@@ -560,10 +566,7 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <option value="batteryled-white">White</option>
 <option value="batteryled-pink">Pink</option>
 </select></p>
-<p><select class="Featured Build Combos">
-<option value="shell-grey">Gray Original</option>
-<option value="shell-white" and="" backlight-pink="">Christmas</option>
-</select></p>
+
 </td>
 </tr>
 </tbody>
@@ -571,13 +574,13 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 </td>
 <td>
 <div class="container">
+<div class="featured"></div>
 <div class="shell" id="shell-grey"></div>
 <div class="batteryled" id="batteryled-red"></div>
 <div class="backlight" id="backlight-white"></div>
 <div class="screencover" id="screencover-grey"></div>
 <div class="startselect" id="startselect-grey"></div>
 <div class="buttons" id="buttons-standard"></div>
-<div class="Featured Build Combos" id="Christmas"></div>
 <div class="pad" id="pad-gray"></div>
 </div>
 </td>
@@ -699,6 +702,13 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <div data-background_color="" data-button_background_color="7db461" data-button_text_color="ffffff" data-buy_button_text="Buy now" data-display_size="compact" data-embed_type="product" data-first_variant_id="1245462935" data-has_image="true" data-product_handle="28-gauge-electrical-wire-5-meters" data-product_name="28 Gauge Electrical Wire 5 Meters" data-redirect_to="checkout" data-shop="hand-held-legend.myshopify.com"></div>
 </div>
 <script>// <![CDATA[
+
+$('select.featured option[value=megaman]')
+    .change(function(){
+        $('div.shell')
+            .attr('id', 'shell-red')
+    }); 
+
 $('select.shell')
     .change(function(){
         $('div.shell')
@@ -818,3 +828,4 @@ imagepng($final_img, 'final_img.png');
 }
 
 ?-->
+hi
