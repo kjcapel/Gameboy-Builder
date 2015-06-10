@@ -1,4 +1,473 @@
-<div class="col-sm-12 center-column">
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+
+<script src="//code.tidio.co/e6psr1i0poncgizgcpdlwnrarkeynsb7.js"></script>
+<head>
+
+
+
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/favicon.png?10466765512193750493" type="image/png" />
+
+  <meta name="description" content="Game Boy Backlights and Screens">
+  <meta name="keywords" content="Game Boy,Gameboy,Backlight,Backlit,fronlight,chiptune,bivert,DMG,Game Gear">
+  <meta name="author" content="Hand Held Legend">
+  <meta charset="UTF-8">
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+
+  <title>
+    TEST PAGE FOR FREELANCER &ndash; Hand Held Legend, LLC
+  </title>
+
+  
+  <meta name="description" content="Design your Nintendo Game Boy Color and Nintendo Game Boy DMG (original) for your next modding project. Use the drop boxes to change the colors of your shell, buttons, frontlight, backlight, LED, and screen." />
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <link rel="canonical" href="http://handheldlegend.com/pages/game-boy-color-builder" /> 
+
+  
+
+
+  <meta property="og:type" content="product" />
+  <meta property="og:title" content="" />
+  
+  <meta property="og:price:amount" content="" />
+  <meta property="og:price:currency" content="USD" />
+
+
+
+<meta property="og:description" content="Design your Nintendo Game Boy Color and Nintendo Game Boy DMG (original) for your next modding project. Use the drop boxes to change the colors of your shell, buttons, frontlight, backlight, LED, and screen." />
+
+<meta property="og:url" content="http://handheldlegend.com/pages/game-boy-color-builder" />
+<meta property="og:site_name" content="Hand Held Legend, LLC" />
+  
+
+
+
+
+  <meta name="twitter:card" content="product">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="https://cdn.shopify.com/s/assets/admin/no-image-medium-4efbc17b64a63d233f8b40b6ab71a785.gif">
+  <meta name="twitter:image:width" content="240">
+  <meta name="twitter:image:height" content="240">
+  <meta name="twitter:label1" content="Price">
+  <meta name="twitter:data1" content="">
+  
+  <meta name="twitter:label2" content="Availability">
+  <meta name="twitter:data2" content="In stock">
+  
+
+
+  <link href="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/styles.scss.css?10466765512193750493" rel="stylesheet" type="text/css"  media="all"  />
+  
+  
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,400,700">
+  
+  
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,400,700">
+  
+  <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/html5shiv.js?10466765512193750493" type="text/javascript"></script>
+
+  <script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "hand-held-legend.myshopify.com";
+      Shopify.theme = {"name":"launchpad-star","id":12058487,"theme_store_id":null,"role":"main"};
+
+//]]>
+</script>
+
+
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["\/\/productreviews.shopifycdn.com\/assets\/v4\/spr.js?shop=hand-held-legend.myshopify.com","https:\/\/d1uisejozjzupo.cloudfront.net\/pc.js?shop=hand-held-legend.myshopify.com","https:\/\/media.receiptful.com\/scripts\/shopify\/tracking.js?shop=hand-held-legend.myshopify.com","\/\/cdn.sweettooth.io\/assets\/widgets.js?shop=hand-held-legend.myshopify.com","https:\/\/media.receiptful.com\/scripts\/refer\/redeem.js?shop=hand-held-legend.myshopify.com","\/\/wisepops.com\/default\/index\/get-loader?user_id=10975\u0026shop=hand-held-legend.myshopify.com","https:\/\/popup.lifterapps.com\/js\/modal.js?shop=hand-held-legend.myshopify.com","\/\/s3.amazonaws.com\/shopify-apps\/pre-order\/js\/common.js?shop=hand-held-legend.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
+</script>
+<script id="__st">
+//<![CDATA[
+var __st={"a":6893143,"offset":-14400,"reqid":"812d5546-ebfd-4f66-a3c0-cc833d88e1ad","pageurl":"handheldlegend.com\/pages\/game-boy-color-builder","s":"pages-23471307","u":"330afde1dffb","p":"page","rtyp":"page","rid":23471307};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script>
+
+      <script type="text/javascript" class="analytics">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+    
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var analytics = document.createElement('script');
+          var loaded = false;
+          var onload = function() {
+            if (loaded) return;
+            loaded = true;
+            window.ShopifyAnalytics.lib = window.analytics.noConflict();
+            window.ShopifyAnalytics.lib.initialize({"Google Analytics":{"trackingId":"UA-45781808-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true}});
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {}
+        );
+      
+            
+
+            window.ShopifyAnalytics.lib.ready(function() {
+              
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.action || target.href)) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+              var originalDocumentWrite = document.write;
+              document.write = customDocumentWrite;
+              try {  } catch(e) {};
+              document.write = originalDocumentWrite;
+            });
+          }
+          analytics.onload = onload;
+          analytics.onreadystatechange = function() {
+            if (!/complete|loaded/.test(analytics.readyState)) return;
+            onload();
+          }
+          analytics.async = true;
+          analytics.src = "//cdn.shopify.com/s/assets/vendor/analytics-9d2d58c6fd580ba80e22dfb78086fa68.js";
+          document.getElementsByTagName('head')[0].appendChild(analytics);
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-a91bb5cad4ac34ff7e9e2ecdb00bf4b3.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    <script type="text/javascript" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-8fde1fbb883ab5fc16a57152eb5fa3bd.js"></script>
+<script type="text/javascript">
+        function getStyle(el,styleProp) {
+          var x=el;
+          if (x.currentStyle)
+            var y = x.currentStyle[styleProp];
+          else if (window.getComputedStyle)
+            var y = document.defaultView.getComputedStyle(x,null).getPropertyValue(styleProp);
+          return y;
+        }
+
+        function doShift(down){
+          var allElements = document.getElementsByTagName('*');
+          for (var i=0; i<allElements.length; i++) {
+            if (allElements[i].id != "admin_bar_iframe" && getStyle(allElements[i],"position") == "fixed")
+              allElements[i].style.top = parseInt(getStyle(allElements[i], "top"),10) + (down ? 40 : -40) + "px";
+          }
+        }
+        window.onload = function() {
+          doShift(true);
+        }
+
+        if (window.addEventListener){ addEventListener("message", receiveABMessage, false); }
+        else { window.attachEvent("onmessage", receiveABMessage) }
+
+        function setABVCookie(value) {
+          var ex=new Date();
+          ex.setDate(ex.getDate() + 720);
+          document.cookie = "_abv="+value+";expires="+ex.toUTCString()+";path=/";
+        }
+
+        function receiveABMessage(event){
+          if(event.origin != 'https://hand-held-legend.myshopify.com')
+            return;
+
+
+          if(event.data == '1') {
+            document.body.style.position = 'relative';
+            document.documentElement.style.paddingTop = "40px";
+            doShift(true);
+            var element = document.getElementById("admin_bar_iframe");
+            element.style.width = '100%';
+            element.style.backgroundColor = '#191919';
+            element.style.right = 'auto';
+            element.style.left = 0;
+            setABVCookie('1');
+          } else if(event.data == '0') {
+            document.body.style.position = 'relative';
+            document.documentElement.style.paddingTop = "0px";
+            doShift(false);
+            var element = document.getElementById("admin_bar_iframe");
+            element.style.backgroundColor = 'transparent';
+            element.style.right = '0px';
+            element.style.left = 'auto';
+            element.style.width = '40px';
+            setABVCookie('0');
+          }
+        }
+      </script>
+<style type="text/css">html {  padding-top:40px; } body { position:relative;} </style>
+
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/jquery-migrate-1.2.0.min.js?10466765512193750493" type="text/javascript"></script>
+  
+  <script src="//cdn.shopify.com/s/assets/themes_support/option_selection-fe0304d361801951e24464bb64f38fc2.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-be79ff08d48a7d544d7f86eaf0d89af9.js" type="text/javascript"></script>
+
+  
+  <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/scripts.js?10466765512193750493" type="text/javascript"></script>
+    
+</head>
+
+<body>
+  
+  <!-- Begin toolbar -->
+  <div class="toolbar-wrapper wrapper">
+    <div class="toolbar span12 clearfix">
+        <ul class="unstyled">
+
+          
+          <li class="search-field fl">
+            <form class="search" action="/search">
+              <input type="image" src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/icon-search.png?10466765512193750493" alt="Go" id="go">
+              <input type="text" name="q" class="search_box" placeholder="Search" value=""  />
+            </form>
+          </li>
+          
+          <li id="cart-target" class="toolbar-cart ">
+            <a href="/cart" class="cart" title="Shopping Cart">
+              <span class="icon-cart"></span>
+              <span id="cart-count">0</span>
+              Cart
+            </a>
+          </li>
+          
+          
+  
+    <li class="toolbar-customer">
+      <a href="/account/login" id="customer_login_link">Log in</a>
+      
+      <span class="or">or</span>
+      <a href="/account/register" id="customer_register_link">Create an account</a>
+      
+    </li>
+  
+
+        </ul>
+    </div>
+  </div>
+  <!-- End toolbar -->
+  
+  <!-- Begin wrapper -->
+  <div id="transparency" class="wrapper clearfix">
+    <div class="row p0">      
+
+      <!-- Begin navigation -->
+      
+
+        <div class="span12 clearfix">
+          <div class="logo">
+            
+            <h1><a href="/"><img src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/logo.png?10466765512193750493" alt="Hand Held Legend, LLC" /></a></h1>
+            
+            
+          </div> 
+        </div> 
+        <section id="nav" class="row p30">
+          <div class="span12">
+            <nav class="main">
+              <ul class="horizontal unstyled clearfix">
+  
+  
+  <li>
+    <a href="/" class="">
+      <span>Home</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/products-page" class="">
+      <span>Products</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/instructions" class="">
+      <span>Instructions</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/faqs" class="">
+      <span>FAQ's</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="https://disqus.com/home/forum/handheldlegend/" class="">
+      <span>DISQUS</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/blogs/news" class="">
+      <span>Blog</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/gameboybuilder" class="">
+      <span>Builder</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/pages/contact-us" class="">
+      <span>Contact Us</span></a>
+  </li>
+  
+  
+</ul>
+            </nav> <!-- /.main -->
+            <nav class="mobile clearfix">
+              
+<select name="main_navigation" id="main_navigation" class="fl">
+  
+    
+    <option value="/">Home</option>
+    
+    
+  
+    
+    <option value="/collections/products-page">Products</option>
+    
+    
+  
+    
+    <option value="/pages/instructions">Instructions</option>
+    
+    
+  
+    
+    <option value="/pages/faqs">FAQ's</option>
+    
+    
+  
+    
+    <option value="https://disqus.com/home/forum/handheldlegend/">DISQUS</option>
+    
+    
+  
+    
+    <option value="/blogs/news">Blog</option>
+    
+    
+  
+    
+    <option value="/pages/gameboybuilder">Builder</option>
+    
+    
+  
+    
+    <option value="/pages/contact-us">Contact Us</option>
+    
+    
+  
+  
+  <option value="" selected="selected">TEST PAGE FOR FREELANCER</option>
+  
+  <option value="/cart">Your cart (0)</option>
+</select>
+            </nav> <!-- /.mobile --> 
+          </div> 
+        </section> 
+
+      
+      <!-- End navigation -->
+      
+      <!-- Begin content-->
+      <section id="content" class="clearfix">
+          
+          <div id="page" class="row">
+  
+  <div class="span12 details">
+    <h1 class="p25">TEST PAGE FOR FREELANCER</h1>
+    <div class="col-sm-12 center-column">
 <div class="col-sm-12 center-column">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </div>
@@ -64,418 +533,376 @@
 
 
 
-		#shell-red{
-			background-image:     
-url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_shell_e5806316-217d-4da8-a5a5-34f1273b21ba.png?16694600620559560248);
-			}
+#shell-red , #pid-1259941423 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_shell_e5806316-217d-4da8-a5a5-34f1273b21ba.png?16694600620559560248);}
 
-		#colorshell-red{
-			background-image:     
-url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellred.png?5468331360568821109);
-			}
+#shell-white, #pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_shell.png?11628824658375360374);}
 
-		#shell-white{
-			background-image:     
-url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_shell.png?11628824658375360374);
-			}
+#shell-blackplayitloud ,#pid-1259941415 {background-image: url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-4ef9-9899-ebb4e27c3561.png?9121457125679004965);}
 
-        #shell-blackplayitloud{
-			background-image:     
-url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-4ef9-9899-ebb4e27c3561.png?9121457125679004965);
-			}
+#shell-green,#pid-1259941427  {background-image: 
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_shell.png?4786022379404181099);}
 
-		#shell-Yellow{
-			background-image: 			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_shell_3f5d6e54-c60e-479c-91fb-c38057ec7347.png?12576244614574958166);
-			}
+#shell-blue,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_shell_7f412114-f633-477a-bcff-bbcca29434ca.png?18400439628258142466);}
 
-		#shell-green{
-			background-image: url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_shell.png?4786022379404181099);
-			}
+#shell-yellow,#pid-1259941411 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_shell_3f5d6e54-c60e-479c-91fb-c38057ec7347.png?12576244614574958166);}
 
-		#shell-iceblue{
-			background-image: 
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_shell_7f412114-f633-477a-bcff-bbcca29434ca.png?11628824658375360374);
-			}
-
-		#shell-yellow{
- 			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_shell_3f5d6e54-c60e-479c-91fb-c38057ec7347.png?12576244614574958166);
-			}
-		#shell-grey{
- 			background-image:
-	url(https://cdn.shopify.com/s/files/1/0689/3143/files/GrayShell.png?3498045067692212754);
-			}
-		#shell-clear{
- 			background-image:
-	url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_shell_93ce33c5-4f71-462a-9606-3fef2e97cc52.png?12834586570630572455);
-			}
+#shell-grey,#pid-1259941407 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/GrayShell.png?3498045067692212754);}
+		
+#shell-clear,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_shell_93ce33c5-4f71-462a-9606-3fef2e97cc52.png?12834586570630572455);}
 
 
+#screencover-silver,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/light_gray_screen.png?7474903739958917083);}
+
+#screencover-orange,#pid-1010744023 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_screen_db8d4039-2a4b-4b07-a4f7-55d479e65ca9.png?7474903739958917083);}
+
+#screencover-greypil,#pid-1017370335 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/graypil_screen.png?12438310300752198467);}
+
+#screencover-yellow,#pid-1010744687 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_screen_fd8ed66c-b9d2-4bd8-9712-45000be504da.png?7474903739958917083);}
+
+#screencover-pink,#pid-1010755623 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_screen_166f1b59-458c-4228-9897-9cf702b76f88.png?7474903739958917083);}
+
+#screencover-green,#pid-1010747315 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_screen_895a25b1-57db-4cac-8304-a5f38bc0d54c.png?7474903739958917083);}
+                
+#screencover-lightgray,#pid-1017370543 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/light_gray_screen.png?11568177946723404764);}
+
+#screencover-grey,#pid-1017367655 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/original_gray_screen.png?13649385188575380500);}
+
+#screencover-white,#pid-1010743083 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_screen_3ff3da79-cfa7-4ec9-a747-2e4017166cee.png?11568177946723404764);}
+
+#screencover-blue,#pid-2253418755 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_screen_299c8fcb-fc5a-41d1-a55c-0f819e464891.png?7474903739958917083);}
+
+#screencover-black,#pid-1010740919 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_screencover_3f62c6b3-ba84-495c-9674-4ae1eef11405.png?10274523716385127472);}
+
+#screencover-red,#pid-1010743763 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_screen_0723876e-0142-4726-b79c-dc9e15329d8d.png?7932016068064026923);}
 
 
-		#screencover-silver{
-  			background-image:
-      url(https://cdn.shopify.com/s/files/1/0689/3143/files/light_gray_screen.png?7474903739958917083);
-			}
+#backlight-pink,#pid-942269663 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Pink_Backlight.png?8428313956124451997);}
 
-		#screencover-orange{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_screen_db8d4039-2a4b-4b07-a4f7-55d479e65ca9.png?7474903739958917083);
-			}
-		#screencover-greypil{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/graypil_screen.png?12438310300752198467);
-			}
-		#colorscreencover-red{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_screen_0723876e-0142-4726-b79c-dc9e15329d8d.png?7474903739958917083);
-			}
-		#screencover-yellow{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_screen_fd8ed66c-b9d2-4bd8-9712-45000be504da.png?7474903739958917083);
-			}
-		#screencover-fuschia{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pinkscreen.png?4308734887587417777);
-			}
-		#screencover-pink{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_screen_166f1b59-458c-4228-9897-9cf702b76f88.png?7474903739958917083);
-			}
-                #screencover-green{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_screen_895a25b1-57db-4cac-8304-a5f38bc0d54c.png?7474903739958917083);
-			}
-                #screencover-purple{
-    			background-image:
-			url(/builder/images/screencover/purplelarge.png);
-			}
-                #screencover-lightgray{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/light_gray_screen.png?11568177946723404764);
-			}
+#backlight-pinkin,#pid-2254378627 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_inverted_d54ea874-cf3f-40b5-9858-94d6f412d215.png?3811224413651157564);}
 
-                #screencover-grey{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/original_gray_screen.png?13649385188575380500);
-			}
-                #screencover-white{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_screen_3ff3da79-cfa7-4ec9-a747-2e4017166cee.png?11568177946723404764);
-			}
-                #screencover-blue{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_screen_299c8fcb-fc5a-41d1-a55c-0f819e464891.png?7474903739958917083);
-			}
-                #screencover-black{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_screencover_3f62c6b3-ba84-495c-9674-4ae1eef11405.png?10274523716385127472);
-			}
+#backlight-blue,#pid-942269615 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_Backlight.png?8428313956124451997);}
 
-		#backlight-pink{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Pink_Backlight.png?8428313956124451997);
-			}
-                #backlight-pinkin{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_inverted_d54ea874-cf3f-40b5-9858-94d6f412d215.png?3811224413651157564);
-			}
-		#backlight-blue{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_Backlight.png?8428313956124451997);
-			}
-#backlight-bluein{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_inverted_9d79540b-bab2-45e7-918d-1bd3b7895f42.png?3811224413651157564);
-			}
-		#backlight-red{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Red_Backlight.png?8428313956124451997);
-			}
-#backlight-redin{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_red_b6289727-4a3a-46ae-9cb3-3e9ce61ecaa1.png?5932645446394530374);
-			}
-		#backlight-yellow{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Yellow_Backlight.png?8428313956124451997);
-			}
-#backlight-yellowin{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_yellow_5c0a8cd0-2b82-401a-8cc7-8148f5231563.png?3811224413651157564);
-			}
-#backlight-whitein{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_inverted_619cd7a6-e7b9-44f2-88ca-00b175955df3.png?3811224413651157564);
-			}
-		#backlight-white{
-    			background-image:
+#backlight-bluein,#pid-2254429635 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_inverted_9d79540b-bab2-45e7-918d-1bd3b7895f42.png?3811224413651157564);}
+
+#backlight-red,#pid-942268911 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Red_Backlight.png?8428313956124451997);}
+
+#backlight-redin,#pid-2254389123 {background-image:url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_red_b6289727-4a3a-46ae-9cb3-3e9ce61ecaa1.png?5932645446394530374);}
+
+#backlight-yellow,#pid-942269451 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Yellow_Backlight.png?8428313956124451997);}
+
+#backlight-yellowin,#pid-2254410115 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_yellow_5c0a8cd0-2b82-401a-8cc7-8148f5231563.png?3811224413651157564);}
+
+#backlight-whitein,#pid-2254306307 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_inverted_619cd7a6-e7b9-44f2-88ca-00b175955df3.png?3811224413651157564);}
+
+#backlight-white,#pid-941938935 {background-image:
 			url(https://cdn.shopify.com/s/files/1/0689/3143/files/White_Backlight_4595bec2-be42-4372-8ce5-c9e0fda693ae.png?3811224413651157564);
 			}
-#backlight-orangein{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_orange_1f652267-4a4c-44a6-b625-772e53ac9954.png?3811224413651157564);
-			}
-		#backlight-orange{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Orange_Backlight.png?8428313956124451997);
-			}
-#backlight-greenin{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_green_575255c2-c740-455e-abce-e89ba86fffa1.png?3811224413651157564);
-			}
-		#backlight-green{
-    			background-image:
-	url(https://cdn.shopify.com/s/files/1/0689/3143/files/Green_Backlight.png?8428313956124451997);
-			}
+#backlight-orangein,#pid-2254448131 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_orange_1f652267-4a4c-44a6-b625-772e53ac9954.png?3811224413651157564);}
+
+#backlight-orange,#pid-942269231 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Orange_Backlight.png?8428313956124451997);}
+
+#backlight-greenin,#pid-2254460291 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/inverted_green_575255c2-c740-455e-abce-e89ba86fffa1.png?3811224413651157564);}
+
+#backlight-green,#pid-942269555 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Green_Backlight.png?8428313956124451997);}
+
+
+#startselect-grey,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Gray_Start_and_Select.png?3498045067692212754);}
+
+#startselect-darkgrey,#pid- {background-image:
+url(/builder/images/startselect/darkgreylarge.png);}
+
+
+#batteryled-pink,#pid-2254736899 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/pinklight_6b1cffb8-078f-4e26-b626-5be15c02e598.png?6630461345080840946);}
+
+#batteryled-red,#pid-1455949507 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/redled.png?11424126237854487977);}
+
+#batteryled-blue,#pid-1455949763 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/bluelight.png?6630461345080840946);}
+
+#batteryled-white,#pid-1455949571 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/whitelight.png?4678645112955859514);}
+
+#batteryled-orange,#pid-2254712643 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/orangelight.png?6630461345080840946);}
+
+#batteryled-green,#pid-1455949699 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/greenlight.png?78110739422417205);}
+
+#batteryled-yellow,#pid-1455949635 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellowlight.png?6630461345080840946);}
+
+#colorbatteryled-yellow,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledyellow.png?12965154000946260312);}
+
+#colorbatteryled-pink,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledpink.png?12965154000946260312);}
+
+#colorbatteryled-green,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledgreen.png?12965154000946260312);}
+
+#colorbatteryled-orange,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledorange.png?12965154000946260312);}
+
+#colorbatteryled-blue,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledblue.png?4794619352308688656);}
+
+#colorbatteryled-red,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledred.png?12965154000946260312);}
+
+#colorbatteryled-white,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorledwhite.png?12965154000946260312);}
+
+#buttons-standard,#pid-2253980419 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/maroon_ab.png?10653361920032545582);}
+
+#buttons-greypil,#pid-2253980483 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/gray_play_it_loud_buttons.png?11168760418019045655);}
+
+#buttons-black,#pid-2253980611 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_ab.png?10653361920032545582);}
+
+#buttons-clear,#pid-2253980675 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_ab1.png?14613609308795568103);}
+
+#buttons-green,#pid-2253980739 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_ab_759d6e23-91e5-451f-bf42-cfac0c6d4647.png?12935496834938362898);}
+
+#buttons-orange,#pid-2253980803 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_buttons.png?12334519215723996981);}
+
+#buttons-pink,#pid-2253980931 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_ab.png?10748853372296302136);}
+
+#buttons-blue,#pid-2253980995 {background-image:url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_ab.png?15237576764184554946);}
+
+#buttons-red,#pid-2253980867 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_ab.png?15237576764184554946);}
+
+#buttons-yellow,#pid-2253981059 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_buttons.png?12334519215723996981);}
+
+#buttons-teal,#pid- {background-image:
+url(/builder/images/buttons/teallarge.png);}
+
+#buttons-white,#pid-2253981123 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_buttons.png?3892906197070068841);}
 
 
 
+#pad-red,#pid-2254140675 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/redpad.png?11635400869007365356);}
 
-		#startselect-grey{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Gray_Start_and_Select.png?3498045067692212754);
-			}
-		#startselect-darkgrey{
-    			background-image:
-			url(/builder/images/startselect/darkgreylarge.png);
-			}
+#pad-blue,#pid-2254140931 {background-image:url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_d_71697e18-a3fb-4700-a25c-c73f89f8eb4a.png?5155849141088801986);}
 
+#pad-clear,#pid-2254141059 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_d1.png?14613609308795568103);}
 
-		#batteryled-pink{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pinklight_6b1cffb8-078f-4e26-b626-5be15c02e598.png?6630461345080840946);
-			}
-		#batteryled-red{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/redled.png?11424126237854487977);
-			}
-		#batteryled-blue{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/bluelight.png?6630461345080840946);
-			}
-		#batteryled-white{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/whitelight.png?4678645112955859514);
-			}
-		#batteryled-orange{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orangelight.png?6630461345080840946);
-			}
-		#batteryled-green{
-    			background-image:
-		url(https://cdn.shopify.com/s/files/1/0689/3143/files/greenlight.png?78110739422417205);
-			}
-		#batteryled-yellow{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellowlight.png?6630461345080840946);
-			}
+#pad-gray,#pid-2254140483 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/gray_d.png?10653361920032545582);}
+
+#pad-white,#pid-2254140611 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_d.png?10653361920032545582);}
+
+#pad-orange,#pid-2254140739 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_d.png?1663071712314347658);}
+
+#pad-yellow,#pid-2254140803 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_d.png?1663071712314347658);}
+
+#pad-green,.pid-2254140867 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_d.png?12935496834938362898);}
+
+#pad-pink,#pid-2254140995 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_d.png?1663071712314347658);}
+
+#pad-black,#pid-2254140547 {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_d.png?10653361920032545582);}
 
 
-		#buttons-standard{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/maroon_ab.png?10653361920032545582);
-			}
-		#buttons-greypil{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/gray_play_it_loud_buttons.png?11168760418019045655);
-			}
 
-		#buttons-black{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_ab.png?10653361920032545582);
-			}
-		#buttons-clear{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_ab1.png?14613609308795568103);
-			}
-		#buttons-transclearnes{
-    			background-image:
-			url(/builder/images/buttons/transclearneslarge.png);
-			}
-		#buttons-green{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_ab_759d6e23-91e5-451f-bf42-cfac0c6d4647.png?12935496834938362898);
-			}
-		#buttons-transgreennes{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/Green_Button.png?12133633174187437181);
-			}
-		#buttons-orange{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_buttons.png?12334519215723996981);
-			}
-		#buttons-transorangenes{
-    			background-image:
-			url(/builder/images/buttons/transorangeneslarge.png);
-			}
-		#buttons-transred{
-    			background-image:
-			url(/builder/images/buttons/transredlarge.png);
-			}
-		#buttons-transrednes{
-    			background-image:
-			url(/builder/images/buttons/transredneslarge.png);
-			}
-		#buttons-pink{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_ab.png?10748853372296302136);
-			}
-		#buttons-blue{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_ab.png?15237576764184554946);
-			}
-		#buttons-red{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_ab.png?15237576764184554946);
-			}
-		#buttons-butterscotch{
-    			background-image:
-			url(/builder/images/buttons/butterscotchlarge.png);
-			}
-		#buttons-yellow{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_buttons.png?12334519215723996981);
-			}
-		#buttons-cerisepink{
-    			background-image:
-			url(/builder/images/buttons/cerisepinklarge.png);
-			}
-		#buttons-coolblue{
-    			background-image:
-			url(/builder/images/buttons/coolbluelarge.png);
-			}
-		#buttons-daphneblue{
-    			background-image:
-			url(/builder/images/buttons/daphnebluelarge.png);
-			}
-		#buttons-deeppurple{
-    			background-image:
-			url(/builder/images/buttons/deeppurplelarge.png);
-			}
-		#buttons-gorgeousgreen{
-    			background-image:
-			url(/builder/images/buttons/gorgeousgreenlarge.png);
-			}
-		#buttons-palegrey{
-    			background-image:
-			url(/builder/images/buttons/palegreylarge.png);
-			}
-		#buttons-purplegrape{
-    			background-image:
-			url(/builder/images/buttons/purplegrapelarge.png);
-			}
-		#buttons-salmonpink{
-    			background-image:
-			url(/builder/images/buttons/salmonpinklarge.png);
-			}
-		#buttons-seafoamgreen{
-    			background-image:
-			url(/builder/images/buttons/seafoamgreenlarge.png);
-			}
-		#buttons-slimegreen{
-    			background-image:
-			url(/builder/images/buttons/slimegreenlarge.png);
-			}
-		#buttons-sunyellow{
-    			background-image:
-			url(/builder/images/buttons/sunyellowlarge.png);
-			}
-		#buttons-tangerineorange{
-    			background-image:
-			url(/builder/images/buttons/tangerineorangelarge.png);
-			}
-		#buttons-teal{
-    			background-image:
-			url(/builder/images/buttons/teallarge.png);
-			}
-		#buttons-white{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_buttons.png?3892906197070068841);
-			}
-		#pad-red{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/redpad.png?11635400869007365356);
-			}
-#pad-blue{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/blue_d_71697e18-a3fb-4700-a25c-c73f89f8eb4a.png?5155849141088801986);
-			}
-#pad-clear{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_d1.png?14613609308795568103);
-			}
-#pad-gray{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/gray_d.png?10653361920032545582);
-			}
-#pad-white{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/white_d.png?10653361920032545582);
-			}
-#pad-orange{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_d.png?1663071712314347658);
-			}
-#pad-yellow{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_d.png?1663071712314347658);
-			}
-#pad-green{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_d.png?12935496834938362898);
-			}
-#pad-pink{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/pink_d.png?1663071712314347658);
-			}
+#colorshell-green,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellgreen.png?3679789573145700225);}
 
-		#pad-black{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_d.png?10653361920032545582);
-			}
+#colorshell-blue,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellblue.png?487664566240378945);}
 
-#colorscreencover-original{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorscreen_original.png?5849780952652725663);
+#colorshell-yellow,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellyellow.png?3679789573145700225);}
 
-#colorscreencover-red{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_screen_f5581d2b-f3b9-4d64-9215-7dd654dba95f.jpg?18400439628258142466);
-			}
+#colorshell-purple,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellpurple.png?487664566240378945);}
 
-#colorscreencover-orange{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/orange_screen_c481613d-ef29-47ef-8517-a10ccaa16522.png?18400439628258142466);
+#colorshell-orange,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellorange.png?3679789573145700225);}
 
-#colorscreencover-yellow{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellow_screen_0a35c7e8-1266-484b-9022-2ca447236909.png?18400439628258142466);
+#colorshell-gray,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellgray.png?4119709226127558842);}
 
-#colorscreencover-green{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_screen_74523f4b-c202-4f06-9c51-a05013f4ae87.png?18400439628258142466);
+#colorshell-black,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_eba178a7-ae9c-46b1-96a0-655ad864c5ac.png?12828441528287931308);}
 
-#colorbacklight-LCD{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/LCD.png?387603334134548074);
-			}
+#colorshell-white,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellwhite.png?4119709226127558842);}
 
-#chrstimas{
-    			background-image:
-			url(https://cdn.shopify.com/s/files/1/0689/3143/files/green_d.png?12935496834938362898);(https://cdn.shopify.com/s/files/1/0689/3143/files/Blue_Backlight.png?8428313956124451997)
-			}
+#colorshell-clear,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorclearshell.png?16944850321844325809);}
 
-	
-#buttons1{color:red}
+#colorshell-teal,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/teal_shell.png?15251346471445563536);}
+
+#colorshell-red,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/red_shell.png?10348126591251045497);}
+
+#colorshell-fuscia,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorshellpink.png?7932016068064026923);}
+
+
+#colorbuttons-original,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorgraybuttons.png?13746636048004221055);}
+
+#colorbuttons-white,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorwhitebuttons.png?12567246663344067835);}
+
+#colorbuttons-black,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorblackbuttons_b0711381-8499-4e22-8272-22f73de4679d.png?16462833850022792480);}
+
+#colorbuttons-gray,#pid- {background-image:
+url();}
+
+#colorbuttons-red,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/Red_buttons.png?8636035915761863767);}
+
+#colorbuttons-orange,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colororangebuttons.png?16462833850022792480);}
+
+#colorbuttons-yellow,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/coloryellowbuttons.png?16462833850022792480);}
+
+#colorbuttons-green,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorgreenbuttons.png?16462833850022792480);}
+
+#colorbuttons-blue,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorbluebuttons.png?468208297712317127);}
+
+#colorbuttons-pink,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorpinkbuttons.png?16462833850022792480);}
+
+#colorbuttons-clear,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_ab.png?13671550972117832257);}
+
+
+#colorpad-gray,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorgraypad.png?16331712988020293376);}
+
+#colorpad-black,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/blackcolorpad.png?4407391426327188246);}
+
+#colorpad-white,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/whitecolorpad.png?4407391426327188246);}
+
+#colorpad-clear,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/clear_pad.png?11231756851935743189);}
+
+#colorpad-red,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorredpad.png?4407391426327188246);}
+
+#colorpad-orange,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/orangecolorpad.png?4407391426327188246);}
+
+#colorpad-yellow,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/yellowcolorpad.png?4407391426327188246);}
+
+#colorpad-green,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/greencolorpad.png?4407391426327188246);}
+
+#colorpad-blue,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/bluecolorpad.png?4407391426327188246);}
+
+#colorpad-pink,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/pinkcolorpad.png?4407391426327188246);}
+
+#colorpad-teal ,#pid-  {background-image:
+url();}
+
+
+#colorscreencover-original,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colororiginalscreen.png?10936520266867498925);}
+
+#colorscreencover-red,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colororedcover.png?2145488698974242129);}
+
+#colorscreencover-orange,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorscreenorange.png?2145488698974242129);}
+
+#colorscreencover-yellow,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorcoveryellow.png?2145488698974242129);}
+
+#colorscreencover-green,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorgreenscreen.png?2145488698974242129);}
+
+#colorscreencover-blue,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorbluescreen.png?2145488698974242129);}
+
+#colorscreencover-pink,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorscreenpink.png?2145488698974242129);}
+
+#colorscreencover-white,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorwhitescreen.png?2145488698974242129);}
+
+#colorscreencover-gray,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorgrayscreen.png?2145488698974242129);}
+
+#colorscreencover-black,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/colorblackscreen.png?10936520266867498925);}
+
+#colorbacklight-off,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/nofrontlight.png?9413681508426657520);}
+
+#colorbacklight-on ,#pid- {background-image:
+url(https://cdn.shopify.com/s/files/1/0689/3143/files/frontlight_e613acb4-1244-4754-9537-69a09ef861e3.png?9413681508426657520);}
 --></style>
 <div class="col-sm-12 center-column">
+<p> <img src="//cdn.shopify.com/s/files/1/0689/3143/files/Untitled_1024x1024.png?2049309834512825761" /></p>
 <table id="builder">
 <tbody>
 <tr align="top">
-<td align="right" width="400">
-<p style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0689/3143/files/10_large.PNG?1250031497410586132" />Customize your vintage Nintendo Game Boy DMG (Original). Use the drop boxes underneath to change the colors of your shell, buttons, backlight, LED, and screen.</p>
-<table cellpadding="0" height="403" width="398">
+<td align="right" width="508">
+<h2 style="text-align: left;">Game Boy DMG Builder</h2>
+<p style="text-align: left;"><span>Design your vintage Nintendo Game Boy DMG (Original) for your next modding project. Use the drop boxes to change the colors of your shell, buttons, backlight, LED, and screen. </span></p>
+<table cellpadding="25" height="403" width="100">
 <tbody>
 <tr>
 <td align="right" height="40" width="200">
@@ -486,87 +913,116 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Backlight</span></p>
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Battery LED</span></p>
 </td>
-<td align="left" height="40" width="200">
-
-<p><select id="featured" class="featured">
-<option value="megaman">Mega Man</option>
-<option value="Christmas">Christmas</option>
-</select></p>
-
-<p><select class="shell">
-<option value="shell-grey">Gray Original</option>
-<option value="shell-yellow">Yellow Play It Loud</option>
-<option value="shell-blackplayitloud">Black Play It Loud</option>
-<option value="shell-red">Red Play It Loud</option>
-<option value="shell-green">Green Play It Loud</option>
-<option value="shell-white">White Play It Loud</option>
-<option value="shell-iceblue">Blue Play It Loud</option>
-<option value="shell-clear">Clear Play It Loud</option>
-</select></p>
-<p><select class="screencover">
-<option value="screencover-grey">Gray Original</option>
-<option value="screencover-greypil">Gray Play It Loud</option>
-<option value="screencover-black">Black</option>
-<option value="screencover-white">White</option>
-<option value="screencover-lightgray">Light Gray</option>
-<option value="screencover-red">Red</option>
-<option value="screencover-orange">Orange</option>
-<option value="screencover-yellow">Yellow</option>
-<option value="screencover-pink">Pink</option>
-<option value="screencover-green">Green</option>
-<option value="screencover-blue">Blue</option>
-</select></p>
-<p><select class="buttons">
-<option value="buttons-standard">Original</option>
-<option value="buttons-greypil">Gray Play It Loud</option>
-<option value="buttons-black">Black</option>
-<option value="buttons-clear">Clear</option>
-<option value="buttons-green">Green</option>
-<option value="buttons-orange">Orange</option>
-<option value="buttons-red">Red</option>
-<option value="buttons-pink">Pink</option>
-<option value="buttons-blue">Blue</option>
-<option value="buttons-yellow">Yellow</option>
-<option value="buttons-white">White</option>
-</select></p>
-<p><select class="pad">
-<option value="pad-gray">Gray Original</option>
-<option value="pad-black">Black</option>
-<option value="pad-white">White</option>
-<option value="pad-red">Red</option>
-<option value="pad-orange">Orange</option>
-<option value="pad-yellow">Yellow</option>
-<option value="pad-green">Green</option>
-<option value="pad-blue">Blue</option>
-<option value="pad-pink">Pink</option>
-<option value="pad-clear">Clear</option>
-</select></p>
-<p><select class="backlight">
-<option value="backlight-white">White</option>
-<option value="backlight-whitein">White Inverted</option>
-<option value="backlight-pink">Pink</option>
-<option value="backlight-pinkin">Pink Inverted</option>
-<option value="backlight-red">Red</option>
-<option value="backlight-redin">Red Inverted</option>
-<option value="backlight-yellow">Yellow</option>
-<option value="backlight-yellowin">Yellow Inverted</option>
-<option value="backlight-blue">Blue</option>
-<option value="backlight-bluein">Blue Inverted</option>
-<option value="backlight-orange">Orange</option>
-<option value="backlight-orangein">Orange Inverted</option>
-<option value="backlight-green">Green</option>
-<option value="backlight-greenin">Green Inverted</option>
-</select></p>
-<p><select class="batteryled">
-<option value="batteryled-red">Original Red</option>
-<option value="batteryled-blue">Blue</option>
-<option value="batteryled-green">Green</option>
-<option value="batteryled-yellow">Yellow</option>
-<option value="batteryled-orange">Orange</option>
-<option value="batteryled-white">White</option>
-<option value="batteryled-pink">Pink</option>
-</select></p>
-
+<td align="left" height="40" width="500">
+     <form method="post" action="/cart/add">
+      <p>
+  <input type="hidden" name="return_to" value="back"/>
+  <select class="shell"  name="id">
+  <option value="1259941407">Gray Original</option>
+  <option value="1259941411">Yellow Play It Loud</option>
+  <option value="1259941415">Black Play It Loud</option>
+  <option value="1259941423">Red Play It Loud</option>
+  <option value="1259941427">Green Play It Loud</option>
+  <option value="shell-white">White Play It Loud</option>
+  <option value="shell-blue">Blue Play It Loud</option>
+  <option value="shell-clear">Clear Play It Loud</option>
+  </select>
+    &nbsp &nbsp &nbsp
+    <input type="submit" value="Add to cart"/>
+     </p>
+  </form>
+  <form method="post" action="/cart/add">
+      <input type="hidden" name="return_to" value="back"/>
+    <p><select class="screencover" name="id">
+    <option value="1017367655">Gray Original</option>
+    <option value="1017370335">Gray Play It Loud</option>
+    <option value="1010740919">Black</option>
+    <option value="1010743083">White</option>
+    <option value="1017370543">Light Gray</option>
+    <option value="1010743763">Red</option>
+    <option value="1010744023">Orange</option>
+    <option value="1010744687">Yellow</option>
+    <option value="1010755623">Pink</option>
+    <option value="1010747315">Green</option>
+    <option value="2253418755">Blue</option>
+    </select>
+     &nbsp &nbsp &nbsp
+    <input type="submit" value="Add to cart"/>
+      </p>
+  </form>
+   <form method="post" action="/cart/add">
+   <input type="hidden" name="return_to" value="back"/>
+    <p><select class="buttons" name="id" >
+    <option value="1061806807">Black</option>
+    <option value="2237089923">Clear</option>
+    <option value="2237061315">Green</option>
+    <option value="2236992643">Orange</option>
+    <option value="2236853635">Red</option>
+    <option value="2237080899">Pink</option>
+    <option value="2237066115">Blue</option>
+    <option value="2237053827">Yellow</option>
+    <option value="2236486403">White</option>
+    <option value="2237268483">Clear Red</option>
+    <option value="2237279171">Clear Black</option>
+    <option value="2324418627">Clear Blue</option>
+    </select>
+     &nbsp &nbsp &nbsp
+    <input type="submit" value="Add to cart"/>
+      </p>
+  </form>
+   <form method="post" action="/cart/add">
+   <input type="hidden" name="return_to" value="back"/>
+  <p><select class="pad" name="id">
+  <option value="2254140483">Gray Original</option>
+  <option value="2254140547">Black</option>
+  <option value="2254140611">White</option>
+  <option value="2254140675">Red</option>
+  <option value="2254140739">Orange</option>
+  <option value="2254140803">Yellow</option>
+  <option value="2254140867">Green</option>
+  <option value="2254140931">Blue</option>
+  <option value="2254140995">Pink</option>
+  <option value="2254141059">Clear</option>
+  </select>
+    &nbsp &nbsp &nbsp
+    <input type="submit" value="Add to cart"/>
+      </p>
+  </form>
+   <form method="post" action="/cart/add">
+   <input type="hidden" name="return_to" value="back"/>
+    <p><select class="backlight" name="id" >
+    <option value="941938935">White</option>
+    <option value="2254306307">White Inverted</option>
+    <option value="942269663">Pink</option>
+    <option value="2254378627">Pink Inverted</option>
+    <option value="942268911">Red</option>
+    <option value="2254389123">Red Inverted</option>
+    <option value="942269451">Yellow</option>
+    <option value="2254410115">Yellow Inverted</option>
+    <option value="942269615">Blue</option>
+    <option value="2254429635">Blue Inverted</option>
+    <option value="942269231">Orange</option>
+    <option value="2254448131">Orange Inverted</option>
+    <option value="942269555">Green</option>
+    <option value="2254460291">Green Inverted</option>
+    </select> &nbsp &nbsp &nbsp
+    <input type="submit" value="Add to cart"/>
+      </p>
+    </form>
+  <form method="post" action="/cart/add">
+   <input type="hidden" name="return_to" value="back"/>
+    <p><select class="batteryled" name="id">
+    <option value="1455949507">Original Red</option>
+    <option value="1455949763">Blue</option>
+    <option value="1455949699">Green</option>
+    <option value="1455949635">Yellow</option>
+    <option value="2254712643">Orange</option>
+    <option value="1455949571">White</option>
+    <option value="2254736899">Pink</option>
+    </select>&nbsp &nbsp &nbsp
+    <input type="submit" value="Add to cart"/>
+      </p>
+    </form>
 </td>
 </tr>
 </tbody>
@@ -574,13 +1030,13 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 </td>
 <td>
 <div class="container">
-<div class="featured"></div>
 <div class="shell" id="shell-grey"></div>
 <div class="batteryled" id="batteryled-red"></div>
 <div class="backlight" id="backlight-white"></div>
 <div class="screencover" id="screencover-grey"></div>
 <div class="startselect" id="startselect-grey"></div>
 <div class="buttons" id="buttons-standard"></div>
+<div class="Featured Build Combos" id="Christmas"></div>
 <div class="pad" id="pad-gray"></div>
 </div>
 </td>
@@ -591,11 +1047,12 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 </div>
 <!--GameboyColor-->
 <div class="col-sm-12 center-column">
-<table id="builder">
+<table id="builder" width="1114" height="571">
 <tbody>
 <tr align="top">
 <td align="right" width="400">
-<p style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0689/3143/files/10_large.PNG?1250031497410586132" />Customize your vintage Nintendo Game Boy DMG (Original). Use the drop boxes underneath to change the colors of your shell, buttons, backlight, LED, and screen.</p>
+<h2 style="text-align: left;"><br />Game Boy Color Builder</h2>
+<p style="text-align: left;"><span>Design your Nintendo Game Boy Color for your next modding project. Use the drop boxes to change the colors of your shell, buttons, frontlight, LED, and screen. </span></p>
 <table cellpadding="0" height="403" width="398">
 <tbody>
 <tr>
@@ -604,22 +1061,25 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Screen Cover</span></p>
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">A/B Buttons</span></p>
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">D-Pad</span></p>
-<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Backlight</span></p>
+<p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Frontlight</span></p>
 <p><span color="#b95509" size="5" style="color: #f3f3f3; font-size: x-large;">Battery LED</span></p>
 </td>
 <td align="left" height="40" width="200">
 <p><select class="colorshell">
-<option value="colorshell-gray">Gray Original</option>
-<option value="shell-yellow">Yellow Play It Loud</option>
-<option value="shell-blackplayitloud">Black Play It Loud</option>
-<option value="colorshell-red">Red Play It Loud</option>
-<option value="shell-green">Green Play It Loud</option>
-<option value="shell-white">White Play It Loud</option>
-<option value="shell-iceblue">Blue Play It Loud</option>
-<option value="shell-clear">Clear Play It Loud</option>
+<option value="colorshell-gray">Gray</option>
+<option value="colorshell-yellow">Yellow</option>
+<option value="colorshell-black">Black</option>
+<option value="colorshell-orange">Orange</option>
+<option value="colorshell-red">Red</option>
+<option value="colorshell-green">Green</option>
+<option value="colorshell-white">White</option>
+<option value="colorshell-blue">Blue</option>
+<option value="colorshell-clear">Clear</option>
+<option value="colorshell-purple">Purple</option>
+<option value="colorshell-fuscia">Fuscia</option>
 </select></p>
 <p><select class="colorscreencover">
-<option value="colorscreencover-original">Classic Black</option>
+<option value="colorscreencover-original">Original</option>
 <option value="colorscreencover-red">Red</option>
 <option value="colorscreencover-orange">Orange</option>
 <option value="colorscreencover-yellow">Yellow</option>
@@ -630,55 +1090,42 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <option value="colorscreencover-white">White</option>
 <option value="colorscreencover-gray">Gray</option>
 </select></p>
-<p><select class="coloruttons">
-<option value="buttons-standard">Original</option>
-<option value="buttons-greypil">Gray Play It Loud</option>
-<option value="buttons-black">Black</option>
-<option value="buttons-clear">Clear</option>
-<option value="buttons-green">Green</option>
-<option value="buttons-orange">Orange</option>
-<option value="buttons-red">Red</option>
-<option value="buttons-pink">Pink</option>
-<option value="buttons-blue">Blue</option>
-<option value="buttons-yellow">Yellow</option>
-<option value="buttons-white">White</option>
+<p><select class="colorbuttons">
+<option value="colorbuttons-original">Original</option>
+<option value="colorbuttons-black">Black</option>
+<option value="colorbuttons-clear">Clear</option>
+<option value="colorbuttons-green">Green</option>
+<option value="colorbuttons-orange">Orange</option>
+<option value="colorbuttons-red">Red</option>
+<option value="colorbuttons-pink">Pink</option>
+<option value="colorbuttons-blue">Blue</option>
+<option value="colorbuttons-yellow">Yellow</option>
+<option value="colorbuttons-white">White</option>
 </select></p>
 <p><select class="colorpad">
-<option value="pad-gray">Gray Original</option>
-<option value="pad-black">Black</option>
-<option value="pad-white">White</option>
-<option value="pad-red">Red</option>
-<option value="pad-orange">Orange</option>
-<option value="pad-yellow">Yellow</option>
-<option value="pad-green">Green</option>
-<option value="pad-blue">Blue</option>
-<option value="pad-pink">Pink</option>
-<option value="pad-clear">Clear</option>
+<option value="colorpad-gray">Gray Original</option>
+<option value="colorpad-black">Black</option>
+<option value="colorpad-white">White</option>
+<option value="colorpad-red">Red</option>
+<option value="colorpad-orange">Orange</option>
+<option value="colorpad-yellow">Yellow</option>
+<option value="colorpad-green">Green</option>
+<option value="colorpad-blue">Blue</option>
+<option value="colorpad-pink">Pink</option>
+<option value="colorpad-clear">Clear</option>
 </select></p>
 <p><select class="colorbacklight">
-<option value="backlight-white">White</option>
-<option value="backlight-whitein">White Inverted</option>
-<option value="backlight-pink">Pink</option>
-<option value="backlight-pinkin">Pink Inverted</option>
-<option value="backlight-red">Red</option>
-<option value="backlight-redin">Red Inverted</option>
-<option value="backlight-yellow">Yellow</option>
-<option value="backlight-yellowin">Yellow Inverted</option>
-<option value="backlight-blue">Blue</option>
-<option value="backlight-bluein">Blue Inverted</option>
-<option value="backlight-orange">Orange</option>
-<option value="backlight-orangein">Orange Inverted</option>
-<option value="backlight-green">Green</option>
-<option value="backlight-greenin">Green Inverted</option>
+<option value="colorbacklight-off">Off</option>
+<option value="colorbacklight-on">On</option>
 </select></p>
 <p><select class="colorbatteryled">
-<option value="batteryled-red">Original Red</option>
-<option value="batteryled-blue">Blue</option>
-<option value="batteryled-green">Green</option>
-<option value="batteryled-yellow">Yellow</option>
-<option value="batteryled-orange">Orange</option>
-<option value="batteryled-white">White</option>
-<option value="batteryled-pink">Pink</option>
+<option value="colorbatteryled-red">Original Red</option>
+<option value="colorbatteryled-blue">Blue</option>
+<option value="colorbatteryled-green">Green</option>
+<option value="colorbatteryled-yellow">Yellow</option>
+<option value="colorbatteryled-orange">Orange</option>
+<option value="colorbatteryled-white">White</option>
+<option value="colorbatteryled-pink">Pink</option>
 </select></p>
 </td>
 </tr>
@@ -689,10 +1136,10 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <div class="container">
 <div class="colorshell" id="colorshell-red"></div>
 <div class="colorbatteryled" id="colorbatteryled-red"></div>
-<div class="colorbacklight" id="colorbacklight-LCD"></div>
+<div class="colorbacklight" id="colorbacklight-off"></div>
 <div class="colorscreencover" id="colorscreencover-original"></div>
 <div class="colorstartselect" id="colorstartselect-grey"></div>
-<div class="colorbuttons" id="colorbuttons-standard"></div>
+<div class="colorbuttons" id="colorbuttons-original"></div>
 <div class="colorpad" id="colorpad-gray"></div>
 </div>
 </td>
@@ -702,130 +1149,263 @@ url(https://cdn.shopify.com/s/files/1/0689/3143/files/black_shell_5a8d2421-344d-
 <div data-background_color="" data-button_background_color="7db461" data-button_text_color="ffffff" data-buy_button_text="Buy now" data-display_size="compact" data-embed_type="product" data-first_variant_id="1245462935" data-has_image="true" data-product_handle="28-gauge-electrical-wire-5-meters" data-product_name="28 Gauge Electrical Wire 5 Meters" data-redirect_to="checkout" data-shop="hand-held-legend.myshopify.com"></div>
 </div>
 <script>// <![CDATA[
-
-$('select.featured option[value=megaman]')
-    .change(function(){
-        $('div.shell')
-            .attr('id', 'shell-red')
-    }); 
-
 $('select.shell')
     .change(function(){
-        $('div.shell')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.shell').attr('id',pdi);
+       // $('div.shell').addClass("pid-"+$(this).val());
     });
 
 
 $('select.batteryled')
     .change(function(){
-        $('div.batteryled')
-            .attr('id', $(this).val())
+   var pdi ="pid-"+$(this).val();
+        $('div.batteryled').attr('id',pdi);
+      //    $('div.batteryled').addClass("pid-"+$(this).val());
     });
 
 $('select.screencover')
     .change(function(){
-        $('div.screencover')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.screencover').attr('id',pdi);
+  // $('div.screencover').addClass("pid-"+$(this).val());
     });
 
 $('select.buttons')
     .change(function(){
-        $('div.buttons')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.buttons').attr('id',pdi);
+    // $('div.buttons').addClass("pid-"+$(this).val());
     });
 
 $('select.pad')
     .change(function(){
-        $('div.pad')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.pad').attr('id',pdi);
+  // $('div.pad').addClass("pid-"+$(this).val());
     });
 
 $('select.backlight')
     .change(function(){
-        $('div.backlight')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.backlight').attr('id',pdi);
+  // $('div.backlight').addClass("pid-"+$(this).val());
             
     });
 
 $('select.Christmas')
     .change(function(){
-        $('div.batteryled')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.batteryled').attr('id',pdi);
+  // $('div.batteryled').addClass("pid-"+$(this).val());
     });
 
     $('select.colorshell')
     .change(function(){
-        $('div.colorshell')
-            .attr('id', $(this).val())
+      var pdi ="pid-"+$(this).val();
+        $('div.colorshell').attr('id',pdi);
+     //  $('div.colorshell').addClass("pid-"+$(this).val());
     });
 
 $('select.colorbatteryled')
     .change(function(){
-        $('div.colorbatteryled')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.colorbatteryled').attr('id',pdi);
+   //$('div.colorbatteryled').addClass("pid-"+$(this).val());
     });
 
 $('select.colorscreencover')
     .change(function(){
-        $('div.colorscreencover')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.colorscreencover').attr('id',pdi);
+  // $('div.colorscreencover').addClass("pid-"+$(this).val());
     });
 
 $('select.colorbuttons')
     .change(function(){
-        $('div.colorbuttons')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.colorbuttons').attr('id',pdi);
+  // $('div.colorbuttons').addClass("pid-"+$(this).val());
     });
 
 $('select.colorpad')
     .change(function(){
-        $('div.colorpad')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.colorpad').attr('id',pdi);
+  // $('div.colorpad').addClass("pid-"+$(this).val());
     });
 
 $('select.colorbacklight')
     .change(function(){
-        $('div.colorbacklight')
-            .attr('id', $(this).val())
+  var pdi ="pid-"+$(this).val();
+        $('div.colorbacklight').attr('id',pdi);
+  // $('div.colorbacklight').addClass("pid-"+$(this).val());
             
     });
 // ]]></script>
-<p>**Note** Colors and textures are simulations. Purchased products and their effects may differ from the simulation above. Thank you Shaun from <a href="http://www.gameboymods.co.uk/" target="_blank">Game Boy Mods UK</a> for help making this possible.</p>
-<p>Looking for a professional to build it for you? Here is a list of our most trusted and experienced modders:</p>
+<p><br />**Note** Colors and textures are simulations. Purchased products and their effects may differ from the simulation above. Thank you Shaun from <a href="http://www.gameboymods.co.uk/" target="_blank">Game Boy Mods UK</a> for help making this possible.</p>
+<p>Looking for a professional to build it for you? Here is a list of our most trusted and experienced  modders:</p>
 <ul>
 <ul>
 <li><a target="_blank" href="http://8bitaesthetics.bigcartel.com/">8bitAesthetics</a> - Chris</li>
 <li><a href="http://www.gameboymods.co.uk/">Game Boy Mods UK</a> - Shaun</li>
+<li><a href="http://thursdaycustoms.bigcartel.com/built-to-order" target="_blank">Thursday Customs</a> -  Justin</li>
 </ul>
+</ul>
+<ul>
+<ul></ul>
 </ul>
 <br /><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <p><input name="cmd" value="_s-xclick" type="hidden" /> <input name="hosted_button_id" value="EKP88X8X7GLHY" type="hidden" /> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" border="0" type="image" /> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" border="0" height="1" width="1" /><br />Enjoy the builder? Please consider<br />donating to help fund future projects.</p>
-</form>____ <!--?php 
+</form>
+  </div>
+  
+</div>
+<div class="addthis_toolbox addthis_default_style"  >
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type='text/javascript'>
+var addthis_product = 'sfy-2.0';
+var addthis_config 	= {/*AddThisShopify_config_begins*/pubid:'xa-525fbbd6215b4f1a', button_style:'style2', services_compact:'', ui_delay:0, ui_click:false, ui_language:'', data_track_clickback:true, data_ga_tracker:'', custom_services:'', custom_services_size:true/*AddThisShopify_config_ends*/};
+</script>
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4f0c254f1302adf8'></script>
+          
+      </section>
+      <!-- End content-->
+      
+    </div>
+  </div>
+  <!-- End wrapper -->
+  
+  <!-- Begin footer -->
+  <div class="footer-wrapper wrapper">
+    <footer>
+      <div class="row">
 
-$final_img = imagecreate(378, 600);
+        <div class="span12 full-border"></div>
+        
+        
+        
+        
+        
+        
 
-$image_1 = "https://cdn.shopify.com/s/files/1/0689/3143/files/red_shell_e5806316-217d-4da8-a5a5-34f1273b21ba.png?16694600620559560248";
-$image_2 = "https://cdn.shopify.com/s/files/1/0689/3143/files/black_ab.png?10653361920032545582";
-$image_3 = screencover-black('https://cdn.shopify.com/s/files/1/0689/3143/files/black_screencover_3f62c6b3-ba84-495c-9674-4ae1eef11405.png?10274523716385127472');
-$image_4 = backlight-red('https://cdn.shopify.com/s/files/1/0689/3143/files/Red_Backlight.png?8428313956124451997');
-imagecopy($image_1, $final_img, 0, 0, 0, 0, 378, 600);
-imagecopy($image_2, $final_img, 0, 0, 0, 0, 378, 600);
-imagecopy($image_3, $final_img, 0, 0, 0, 0, 378, 600);
-imagecopy($image_4, $final_img, 0, 0, 0, 0, 378, 600);
+        <!-- Begin latest blog post -->
+        
+        <div class="span3">
+          
+          <div class="p30">
+            <h4>News</h4>
+            <p class="p10"><strong><a href="/blogs/news/29998787-memorial-day-screen-sale" title="">Memorial Day Screen Sale</a></strong></p>
+            <p>All DMG colored screens are just $3 this week. Thank you to all who served and are currently serving in our country's military.</p>
+          </div>
+        </div>
+        
+        <!-- End latest blog post -->
+        
+        
+        <!-- Begin footer navigation -->
+        <div class="span3 footer-menu">          
+          <h4>Quick Links</h4>
+          <ul class="unstyled">
+            
+              <li><a href="/pages/about-us" title="About Us">About Us</a></li>
+            
+              <li><a href="/pages/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
+            
+              <li><a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+            
+              <li><a href="/pages/shipping-policy" title="Shipping Policy/Rates">Shipping Policy/Rates</a></li>
+            
+              <li><a href="http://handheldlegend.com/pages/modding-guide" title="Modding Guide">Modding Guide</a></li>
+            
+          </ul>
+          
+        </div>
+        <!-- End footer navigation -->
+        
+        
+        
+        <!-- Begin newsletter -->
+          <div class="span3">
+            <div class="p30">
+              <h4>Newsletter</h4>
+              <form action="//handheldlegend.us10.list-manage.com/subscribe/post?u=f6916511bd5761b8ebecdc15d&amp;id=df664198c3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+                <input type="email" value="" placeholder="Email Address" name="EMAIL" id="mail" /><input type="submit" class="btn newsletter" value="Subscribe" name="subscribe" id="subscribe" />
+              </form>
+            </div>
+          </div>
+        <!-- End newsletter -->
+        
+          
+        
+        <!-- Begin social -->
+          <div class="span3">
+            <h4>Follow Us</h4>
+            <a href="https://twitter.com/handheldlegend" title="Hand Held Legend, LLC on Twitter" class="icon-social twitter">Twitter</a>
+            <a href="https://www.facebook.com/handheldlegend?ref=hl" title="Hand Held Legend, LLC on Facebook" class="icon-social facebook">Facebook</a>
+            
+            <a href="http://handheldlegend.com/blogs/news" title="Hand Held Legend, LLC news" class="icon-social atom">Blog feed</a>
+            <a href="https://instagram.com/handheldlegend/" title="Hand Held Legend, LLC on Instagram" class="icon-social instagram">Instagram</a>
+            <a href="http://www.pinterest.com/switchie15/hand-held-legend/" title="Hand Held Legend, LLC on Pinterest" class="icon-social pinterest">Pinterest</a>
+            
+            
+            
+          </div>
+        <!-- End social -->
+        
+        
+        <!-- Begin copyright -->
+        <div class="span12 tc copyright">
+          <ul class="credit-cards p10 clearfix">
+            <li><img src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/icon-cc-visa.png?10466765512193750493" alt="Visa" /></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/icon-cc-mastercard.png?10466765512193750493" alt="MasterCard" /></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/icon-cc-amex.png?10466765512193750493" alt="Amex" /></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/icon-cc-discover.png?10466765512193750493" alt="Discover" /></li>
+            <li><img src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/icon-cc-paypal.png?10466765512193750493" alt="PayPal" /></li>
+            
+            
 
-imagealphablending($final_img, false);
-imagesavealpha($final_img, true);
-if($output_to_browser){
+          </ul> <!-- /.credit-cards -->
+          <p>Copyright &copy; 2015 Hand Held Legend, LLC | <a href="http://www.shopify.com" rel="nofollow" target="_blank">Powered by Shopify</a></p>
+        </div>
+        <!-- End copyright -->
 
-header('Content-Type: image/png');
-imagepng($final_img);
+      </div>
+    </footer>
+  </div>
+  <!-- End footer -->
+    
+  <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/jquery.flexslider-min.js?10466765512193750493" type="text/javascript"></script>
 
-}else{
-// output to file
+  
+    <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/jquery.zoom.js?10466765512193750493" type="text/javascript"></script>
+  
+  <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/jquery.tweet.js?10466765512193750493" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0689/3143/t/1/assets/jquery.fancybox.js?10466765512193750493" type="text/javascript"></script>
 
-imagepng($final_img, 'final_img.png');
 
-}
+<input type="hidden" name="_pc_params" value="hand-held-legend.myshopify.com:" />
+  
+  
+  
 
-?-->
-hi
+  <div class="sweettooth-widget"
+    data-widget-type="tab"
+    data-channel-key="pk_ubAt7rMsUxzfx13V9xYznq8C"
+    data-channel opt-customer-id=""
+    data-digest=""
+  ></div>
+
+
+
+
+
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55398087056555e3" async="async"></script>
+
+  
+</body>
+</html><iframe allowTransparency="true" frameborder="0" id="admin_bar_iframe" src="https://hand-held-legend.myshopify.com/admin/bar?u=http://handheldlegend.com/pages/game-boy-color-builder" style="height: 40px; position:fixed; top:0; left:0; right:0; z-index:2147483647;background:#191919" width="100%">{}</iframe>
